@@ -1,6 +1,5 @@
 # Proyecto DQN para CartPole-v1 y LunarLander-v2
 
-## Archivos fuente
 ## Estructura del código
 
 * **dqn\_agent.py**: Clase `DQNAgent` con redes `policy_net` y `target_net`, métodos de acción (`choose_action`), optimización (`optimize_model`) y actualización de la red objetivo.
