@@ -24,7 +24,7 @@
 
 Se muestran las gráficas de recompensa acumulada por episodio, con una media móvil de 100 episodios superpuesta.
 
-![CartPole Reward Curve](figures/cartpole_reward_curve.png)
+![CartPole Reward Curve](graph2.png)
 
 ![LunarLander Reward Curve](graph1.png)
 
@@ -54,8 +54,8 @@ Se muestran las gráficas de recompensa acumulada por episodio, con una media m�
 
 ## Observaciones sobre el rendimiento
 
-* **CartPole-v1**: Converge en \~200 episodios y mantiene media >195 en los últimos 100.
-* **LunarLander-v2**: Requiere \~800–1000 episodios para empezar a rendir de forma consistente, con reward medio \~200 al final.
+* **CartPole-v1**: Converge en \~500 episodios y mantiene media >195 en los últimos 100.
+* **LunarLander-v2**: Requiere \~500 episodios para empezar a rendir de forma consistente, con reward medio \~200 al final.
 
 ---
 
