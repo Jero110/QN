@@ -26,7 +26,7 @@ Se muestran las gr√°ficas de recompensa acumulada por episodio, con una media m√
 
 ![CartPole Reward Curve](figures/cartpole_reward_curve.png)
 
-![LunarLander Reward Curve](figures/lunarlander_reward_curve.png)
+![LunarLander Reward Curve](graph1.png)
 
 ## Respuestas a ejercicios seleccionados
 
